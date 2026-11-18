@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:송;병주;;;
+FN:송병주 (Brian Song)
+ORG:옥서스 OXUS
+TITLE:차장 / Sales Manager
+TEL;TYPE=CELL,VOICE:01050112605
+EMAIL;TYPE=INTERNET,WORK:bjsong@oxus.co.kr
+URL:https://www.oxus.co.kr/
+ADR;TYPE=WORK:;;광나루로56길 85\, 2층 5호 (구의동 강변테크노
+ 마트);광진구;서울시;;대한민국
+NOTE:사회복지사 / 요양보호사
+END:VCARD
